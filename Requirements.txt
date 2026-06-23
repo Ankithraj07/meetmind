@@ -1,0 +1,15 @@
+google-generativeai
+langchain-google-genai
+langchain
+langchain-groq
+langchain-community
+groq
+chromadb
+fastapi
+uvicorn[standard]
+streamlit
+python-dotenv
+pydantic
+pandas
+requests
+python-multipart
