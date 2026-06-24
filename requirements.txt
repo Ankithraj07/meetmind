@@ -1,7 +1,5 @@
-google-generativeai
-langchain-google-genai
-langchain
 langchain-groq
+langchain
 langchain-community
 groq
 chromadb
@@ -13,3 +11,4 @@ pydantic
 pandas
 requests
 python-multipart
+sentence-transformers
